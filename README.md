@@ -1,3 +1,3 @@
-This project aims to analyze a comprehensive healthcare dataset
-comprising medical examinations, hospitalization details, and customer profiles to extract
-insights into patient health profiles, medical histories, and healthcare costs
+Analysed healthcare datasets using Excel to identify service utilization trends and performance metrics.
+Cleaned and transformed raw data using PivotTables, VLOOKUP, and Power Query for accurate reporting.
+Created summary dashboards to support data-driven operational and strategic decisions.
