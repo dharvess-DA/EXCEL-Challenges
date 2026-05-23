@@ -18,7 +18,7 @@ health risk factors (specifically weight status and smoking habits), and their a
 - Regional & Segment Analysis: To provide dynamic slicing capabilities (via the left-hand filters) so healthcare administrators can drill down into specific states or weight categories to find localized trends.
 
  
-# Key Findings 
+## Key Findings 
 
 By analyzing the specific charts within the dashboard, we can draw the following conclusions:
 
