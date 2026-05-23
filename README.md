@@ -48,6 +48,9 @@ By analyzing the specific charts within the dashboard, we can draw the following
 
 ---
 
+## 📷 Dashboard 
+<img width="425" height="475" alt="image" src="HealthCare analysis.jpg" />
+
 ## ✅ Conclusion
 This project is that preventable health risks heavily dictate healthcare spending. The data proves that healthcare costs are not evenly distributed; instead, they are heavily concentrated in segments with specific risk factors—most notably, obesity. Because obesity-related charges of all other categories combined, the project concludes that the financial sustainability of this healthcare system relies on managing chronic, lifestyle-related conditions rather than just treating acute illnesses.
 
