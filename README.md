@@ -55,6 +55,6 @@ This project is that preventable health risks heavily dictate healthcare spendin
 
 
 ## 🔗 GitHub Repository
-[Project Repository Link](https://github.com/dharvess-DA/Final-Project)
+[Project Repository Link](https://github.com/dharvess-DA/EXCEL-Challenges)
 
 ---
